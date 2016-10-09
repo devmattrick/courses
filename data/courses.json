@@ -1,0 +1,316 @@
+{
+    "java-101": {
+        "name": "Java 101",
+        "description": "A jumpstart into Java and Maven.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/921744_463b_2.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-01-08_13-17-28-98c89e2e47bbba1b10ca03cae4611550/WebHD_720p.mp4?nva=20161010010407&token=0a5476d47a0b981dd4cb3",
+        "icon": "local_cafe",
+        "coursePrice": "120",
+        "color": "#e67e22",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "java",
+            "programming",
+            "computer",
+            "code"
+        ],
+        "rating": 5,
+        "students": 98
+    },
+    "design-101": {
+        "name": "Design 101",
+        "description": "Learn the basics of web and graphics design.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/437398_46c3_7.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-04-04_09-18-03-b36d74b02484092ee4a15a5605621cc4/WebHD_720p.mp4?nva=20161010010829&token=0f0b414dfec17dc7a1042",
+        "icon": "brush",
+        "coursePrice": "40",
+        "color": "#9b59b6",
+        "materials": [
+            "Computer",
+            "Crayons",
+            "Pencil",
+            "Paper"
+        ],
+        "tags": [
+            "design",
+            "art",
+            "drawing"
+        ],
+        "rating": 4.5,
+        "students": 105
+    },
+    "javascript-101": {
+        "name": "Javascript 101",
+        "description": "Learn the basics of frontend Javascript.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/753828_11d5_6.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-04-16_20-54-34-b032d099616c339694a0a1e7083f65dd/WebHD_720p.mp4?nva=20161010011955&token=047c71406485f8a2ab145",
+        "icon": "code",
+        "coursePrice": "25",
+        "color": "#f1c40f",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "javascript",
+            "code",
+            "programming"
+        ],
+        "rating": 3.5,
+        "students": 121
+    },
+    "node-101": {
+        "name": "NodeJS 101",
+        "description": "Learn the basics of NodeJS and server side Javascript.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/481002_0155_2.jpg",
+        "video": "https://udemy-assets-on-demand2.udemy.com/2015-08-27_18-01-40-2c0a8c732d389556078dcdf9f9ecf8f5/WebHD_720p.mp4?nva=20161010011938&token=0160276393433d1b214b4",
+        "icon": "timeline",
+        "coursePrice": "100",
+        "color": "#2ecc71",
+        "materials": [
+            "Computer",
+            "Server"
+        ],
+        "tags": [
+            "javascript",
+            "node",
+            "code",
+            "programming"
+        ],
+        "rating": 4.5,
+        "students": 199
+    },
+    "crypto-101": {
+        "name": "Crypto 101",
+        "description": "Learn the basics of cryptography and how encryption algorithms work.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/49798_39c2_9.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2013-04-19_19-20-10-29c93ef44a1737440964622d088a1cc5/WebHD_720p.mp4?nva=20161010012209&token=0b746da9b2d7a387f19d5",
+        "icon": "vpn_key",
+        "coursePrice": "50",
+        "color": "#1abc9c",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "cryptography",
+            "encryption",
+            "code",
+            "programming"
+        ],
+        "rating": 4,
+        "students": 99
+    },
+    "ruby-101": {
+        "name": "Ruby 101",
+        "description": "Learn about the Ruby language and its syntax.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/904076_b289.jpg",
+        "video": "https://udemy-assets-on-demand2.udemy.com/2016-05-27_12-31-50-dc25f7063856a635daa7d8899dfef326/WebHD_720p.mp4?nva=20161010012243&token=0ad74d01bbb3b47af4be7",
+        "icon": "brightness_7",
+        "coursePrice": "20",
+        "color": "#e74c3c",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "ruby",
+            "code",
+            "programming"
+        ],
+        "rating": 3.5,
+        "students": 205
+    },
+    "rails-101": {
+        "name": "Rails 101",
+        "description": "Learn about the Rails framework.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/912946_2795_3.jpg",
+        "video": "https://udemy-assets-on-demand2.udemy.com/2015-12-10_04-05-57-758f6b0ef06218c4ca62f4c1916e56ec/WebHD_720p.mp4?nva=20161010005910&token=0136c6ac7bf43e71cde67",
+        "icon": "account_balance",
+        "coursePrice": "20",
+        "color": "#e74c3c",
+        "materials": [
+            "Computer",
+            "Server"
+        ],
+        "tags": [
+            "ruby",
+            "rails",
+            "code",
+            "programming"
+        ],
+        "rating": 4.5,
+        "students": 265
+    },
+    "polymer-101": {
+        "name": "Polymer 101",
+        "description": "Learn about the Polymer framework.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/635248_09c2_2.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-02-28_22-57-38-35b96a43f17420df85bb7dbc96028574/WebHD_720p.mp4?nva=20161010012524&token=007d8074c3233174b6c14",
+        "icon": "polymer",
+        "coursePrice": "70",
+        "color": "#8e44ad",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "javascript",
+            "polymer",
+            "code",
+            "programming"
+        ],
+        "rating": 3.5,
+        "students": 20
+    },
+    "linux-101": {
+        "name": "Linux 101",
+        "description": "Learn about the Linux operating system and the various commands.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/874226_95d8.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-06-27_09-24-44-24b7f8b9d98bcff032fdbab5d3fef798/WebHD_720p.mp4?nva=20161010012426&token=089630e556bda2d8304d4",
+        "icon": "dns",
+        "coursePrice": "40",
+        "color": "#2c3e50",
+        "materials": [
+            "Computer",
+            "Server"
+        ],
+        "tags": [
+            "linux",
+            "unix",
+            "code",
+            "sysadmin"
+        ],
+        "rating": 5,
+        "students": 305
+    },
+    "extensions-101": {
+        "name": "Chrome Extensions 101",
+        "description": "Learn how to write Chrome extensions in this short lesson.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/713184_6e05_3.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-08-26_21-19-32-3ad73542d2755041f55590b676f0d79c/WebHD_720p.mp4?nva=20161010012735&token=09bdabca099d7749e7046",
+        "icon": "extension",
+        "coursePrice": "120",
+        "color": "#D95145",
+        "materials": [
+            "Computer",
+            "Chromebook"
+        ],
+        "tags": [
+            "javascript",
+            "chrome",
+            "code",
+            "programming"
+        ],
+        "rating": 3,
+        "students": 13
+    },
+    "android-101": {
+        "name": "Android Apps 101",
+        "description": "Learn how to write and test Android apps.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/428526_9c24_4.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-09-29_07-18-10-27e6b775792fd076c4f72096689c98fe/WebHD_720p.mp4?nva=20161010010533&token=0b00da8f0d6ff9926e28e",
+        "icon": "android",
+        "coursePrice": "80",
+        "color": "#99CC00",
+        "materials": [
+            "Computer",
+            "Nexus 5",
+            "Google Pixel",
+            "OnePlus 3"
+        ],
+        "tags": [
+            "android",
+            "java",
+            "code",
+            "programming"
+        ],
+        "rating": 4.5,
+        "students": 102
+    },
+    "ios-101": {
+        "name": "iOS Apps 101",
+        "description": "Learn how to write and test iOS apps.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/528422_f4f0_2.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-07-26_08-05-47-d79577c6af9932994b90caa21750dfcb/WebHD_720p.mp4?nva=20161010010652&token=06452ad4944d1e3504169",
+        "icon": "phone_iphone",
+        "coursePrice": "150",
+        "color": "#333",
+        "materials": [
+            "Computer",
+            "iPhone",
+            "iPod Touch",
+            "iPad"
+        ],
+        "tags": [
+            "ios",
+            "objective-c",
+            "code",
+            "programming"
+        ],
+        "rating": 4,
+        "students": 101
+    },
+    "neural-101": {
+        "name": "Neural Networks 101",
+        "description": "Learn how to write neural networks.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/714978_0783_2.jpg",
+        "video": "https://udemy-assets-on-demand2.udemy.com/2016-09-18_04-15-03-ec81c0ffcaa0202df92d67f1d9060481/WebHD_720p.mp4?nva=20161010011057&token=002c7550bb59841d6205f",
+        "icon": "call_split",
+        "coursePrice": "100",
+        "color": "#d35400",
+        "materials": [
+            "Computer"
+        ],
+        "tags": [
+            "neural",
+            "network",
+            "code",
+            "programming"
+        ],
+        "rating": 4,
+        "students": 102
+    },
+    "games-101": {
+        "name": "Games 101",
+        "description": "Learn how to write your very own video games!",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/660600_39b2_2.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-03-31_15-21-21-f3fab5570286e72e19cedf1e7d31a82d/WebHD_720p.mp4?nva=20161010011557&token=0c348392694b00da9a9c4",
+        "icon": "videogame_asset",
+        "coursePrice": "55",
+        "color": "#2ecc71",
+        "materials": [
+            "Computer",
+            "Xbox One",
+            "Playstation 4",
+            "Wii U"
+        ],
+        "tags": [
+            "games",
+            "code",
+            "programming"
+        ],
+        "rating": 5,
+        "students": 201
+    },
+    "analytics-101": {
+        "name": "Analytics 101",
+        "description": "Learn about data mining.",
+        "backgroundImage": "https://udemy-images.udemy.com/course/304x171/613946_e110_7.jpg",
+        "video": "https://udemy-assets-on-demand.udemy.com/2016-02-17_12-22-09-fbb4619de9ae6f1448934ae2eeecac25/WebHD_720p.mp4?nva=20161010011430&token=02783b097c1631a6a2b4e",
+        "icon": "equalizer",
+        "coursePrice": "20",
+        "color": "#16a085",
+        "materials": [
+            "Computer",
+            "Server"
+        ],
+        "tags": [
+            "analytics",
+            "data",
+            "mining",
+            "code",
+            "programming"
+        ],
+        "rating": 3,
+        "students": 12
+    }
+}
